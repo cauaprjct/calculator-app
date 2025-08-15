@@ -2,6 +2,10 @@
 
 Uma calculadora moderna e responsiva construída com Next.js, React e TypeScript.
 
+## 🌐 Demo ao Vivo
+
+**🚀 [Acesse a Calculadora](https://calculator-ljkrr16v7-cauaprjcts-projects.vercel.app)**
+
 ## ✨ Funcionalidades
 
 - ➕ Operações básicas: adição, subtração, multiplicação e divisão
