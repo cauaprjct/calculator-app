@@ -4,7 +4,7 @@ Uma calculadora moderna e responsiva construída com Next.js, React e TypeScript
 
 ## 🌐 Demo ao Vivo
 
-**🚀 [Acesse a Calculadora](https://calculator-ljkrr16v7-cauaprjcts-projects.vercel.app)**
+**🚀 [Acesse a Calculadora](https://calculator-app-beta-eight.vercel.app/)**
 
 ## ✨ Funcionalidades
 
